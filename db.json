@@ -1,0 +1,41 @@
+{
+  "equipo": [
+    {
+      "id": 1,
+      "nombre": "Eduardo",
+      "puesto": "Maestro Heladero",
+      "foto": "https://fastly.picsum.photos/id/842/200/300.jpg?blur=2&hmac=itWF2ZTBb6tdSyhegXk5i4ULHjyx0zz3ZMWqZT4p9to"
+    },
+    {
+      "id": 2,
+      "nombre": "Ivan",
+      "puesto": "Despacho / Maestro Heladero",
+      "foto": "https://fastly.picsum.photos/id/842/200/300.jpg?blur=2&hmac=itWF2ZTBb6tdSyhegXk5i4ULHjyx0zz3ZMWqZT4p9to"
+    },
+    {
+      "id": 3,
+      "nombre": "Cristian",
+      "puesto": "Telefonista / Cajero / Maestro Heladero Jr",
+      "foto": "https://fastly.picsum.photos/id/842/200/300.jpg?blur=2&hmac=itWF2ZTBb6tdSyhegXk5i4ULHjyx0zz3ZMWqZT4p9to"
+    },
+    {
+      "id": 4,
+      "nombre": "Matias",
+      "puesto": "Ayudante de Maestro Heladero",
+      "foto": "https://fastly.picsum.photos/id/842/200/300.jpg?blur=2&hmac=itWF2ZTBb6tdSyhegXk5i4ULHjyx0zz3ZMWqZT4p9to"
+    },
+    {
+      "id": 5,
+      "nombre": "Ernesto1",
+      "puesto": "Saca Helado",
+      "foto": "https://fastly.picsum.photos/id/842/200/300.jpg?blur=2&hmac=itWF2ZTBb6tdSyhegXk5i4ULHjyx0zz3ZMWqZT4p9to"
+    },
+    {
+      "id": 6,
+      "nombre": "Ernesto2",
+      "puesto": "Saca Helado",
+      "foto": "https://fastly.picsum.photos/id/842/200/300.jpg?blur=2&hmac=itWF2ZTBb6tdSyhegXk5i4ULHjyx0zz3ZMWqZT4p9to"
+    }
+  ]
+}
+
